@@ -1866,6 +1866,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: 150px;
     animation: fadeLeft 2s ease forwards;
     animation-delay: .4s;
+    margin-top: 7px;
     right: 0px;
     position: relative;
    }
